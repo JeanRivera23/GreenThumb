@@ -6,7 +6,7 @@ Tech used:
 
 * HTML & CSS (no frameworks)
 * JavaScript
-* Sengrid API
+* SendGrid API
 * Heroku for deployment (https://greenthumb-sinatra-site.herokuapp.com/)
 
 Green Thumb Home Page:
