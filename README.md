@@ -20,3 +20,9 @@ Example of Shopping Modal:
 
 Green Thumb Contact Page:
 ![screen shot 2017-06-06 at 12 51 34 pm](https://user-images.githubusercontent.com/26287155/26841883-e2120682-4ab8-11e7-9a41-0d24f7aa0238.png)
+
+
+
+Home Page Carousel JavaScript Snippet: 
+
+![screen shot 2017-06-29 at 4 30 39 pm](https://user-images.githubusercontent.com/26287155/27709136-03ea9c64-5ce9-11e7-9c34-6f68c059810f.png)
