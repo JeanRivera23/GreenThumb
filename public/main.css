@@ -646,10 +646,10 @@ textarea:focus {
     }
 
     #logo {
-      margin-left: 23%;
+      margin-left: 26%;
       margin-right: 30%;
-      width: 150px;
-      height: 150px;
+      width: 130px;
+      height: 130px;
     }
 
     #contentContainer {
@@ -694,8 +694,8 @@ textarea:focus {
     }
 
     #followUs img {
-      width: 35px;
-      height: 35px;
+      width: 30px;
+      height: 30px;
     }
 
     /*home page style*/
@@ -816,10 +816,10 @@ textarea:focus {
   }
 
   #logo {
-    margin-left: 23%;
+    margin-left: 26%;
     margin-right: 30%;
-    width: 150px;
-    height: 150px;
+    width: 130px;
+    height: 130px;
   }
 
   #contentContainer {
@@ -864,8 +864,8 @@ textarea:focus {
   }
 
   #followUs img {
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
   }
 
   /*home page style*/
